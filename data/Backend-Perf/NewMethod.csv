@@ -1,0 +1,5 @@
+Threads,Raw events,BPFContain Audit Events Captured,Proportion of Events Captured by BPFContain,Audit Events Captured by Backend,Proportion of BPFContain Events Captured by Backend
+1,107199150,3534894,3.30%,3534894,100.00%
+2,138250860,3436073,2.49%,3436073,100.00%
+3,141878940,3428633,2.42%,3428633,100.00%
+4,130012380,3428633,2.64%,3428633,100.00%

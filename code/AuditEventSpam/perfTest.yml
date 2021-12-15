@@ -1,0 +1,12 @@
+# A unique name for the policy file
+name: perfTest
+
+# Spawn tainted
+defaultTaint: true
+
+# Spawn in complaining mode
+complain: true
+
+# A set of restrictions (rights to explicitly revoke)
+restrictions:
+  - fs: {path: /home/cody/Desktop/myFile, access: r}

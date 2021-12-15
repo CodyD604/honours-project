@@ -1,0 +1,6 @@
+Started to produce audit events at Fri 05 Nov 2021 08:35:43 PM EDT
+Opened the file 4333746 times in 15 seconds.
+Finished producing audit events at Fri 05 Nov 2021 08:35:58 PM EDT
+
+BPFContain processed 3478275 events.
+Captured 3478275 events for a capture rate of 100.00%.

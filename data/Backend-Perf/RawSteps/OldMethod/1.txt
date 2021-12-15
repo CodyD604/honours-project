@@ -1,0 +1,6 @@
+Started to produce audit events at Sat 13 Nov 2021 08:25:38 PM EST
+Opened the file 3319543 times in 15 seconds.
+Finished producing audit events at Sat 13 Nov 2021 08:25:53 PM EST
+
+Captured 22642 events.
+{"jsonrpc":"2.0","result":{"events_processed":3509844},"id":1}
