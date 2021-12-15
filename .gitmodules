@@ -1,3 +1,6 @@
 [submodule "code/BPFCAudit-ui"]
 	path = code/BPFCAudit-ui
 	url = https://github.com/CodyD604/BPFCAudit-ui
+[submodule "code/BPFCAudit"]
+	path = code/BPFCAudit
+	url = https://github.com/CodyD604/BPFCAudit.git
